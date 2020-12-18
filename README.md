@@ -17,7 +17,7 @@ To do so, we will find out several Google Trends categories and analyze which ar
 *   Do the chosen categories improve out-of-sample forecasting?
 *   Do we see an improvement in MAE?
 *   Is there a correlation between a higher number of searches for properties category on Google Trends in NYC and the actual number of sold flats?
-*   Did the election of Donald Trump in November 2016 have any effect on the sales?
+
 4. **Proposed datasets**
 * nyc-rolling-sales.csv from the “NYC property sales” Kaggle dataset [nyc!](https://www.kaggle.com/new-york-city/nyc-property-sales)
 * google trends data regarding properties, apartments searches in the area of New York / New York state
